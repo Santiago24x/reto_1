@@ -13,3 +13,7 @@ public class Punto4 {
     }
 }
 
+
+/* Explicacion del algoritmo:
+Este algoritmo sirve para generar los primeros 10 nemuros de la serie fibonacci en cada iteracion del bucle for  se imprime el valor de a, se guarda el valor actual de a en una variable temporal, se actualiza el valor de a con el valor de b y se actualiza el valor de b sumando el valor temporal al valor anterior de b.
+*/  
